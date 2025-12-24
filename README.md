@@ -8,27 +8,27 @@ It also includes an admin panel to manage rooms and view all customer reservatio
 
 👤 Customer Features
 
-Create a new customer account
+-->Create a new customer account
 
-Search for available rooms based on check-in and check-out dates
+-->Search for available rooms based on check-in and check-out dates
 
-Book rooms
+-->Book rooms
 
-View existing reservations
+-->View existing reservations
 
-Validate email and date inputs
+-->Validate email and date inputs
 
 🛠 Admin Features
 
-Add rooms (Single/Double)
+-->Add rooms (Single/Double)
 
-View all rooms
+-->View all rooms
 
-View all customers
+-->View all customers
 
-View all reservations
+-->View all reservations
 
-Test application with sample data
+-->Test application with sample data
 
 📁 Project Structure
 src/
@@ -40,15 +40,15 @@ src/
 
 🧰 Technologies Used
 
-Java
+-->Java
 
-Collections Framework
+-->Collections Framework
 
-OOP Principles
+-->OOP Principles
 
-Date Handling
+-->Date Handling
 
-Menu-driven CLI application
+-->Menu-driven CLI application
 
 ▶️ How to Run
 
