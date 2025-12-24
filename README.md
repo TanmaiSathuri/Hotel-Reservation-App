@@ -9,17 +9,25 @@ It also includes an admin panel to manage rooms and view all customer reservatio
 👤 Customer Features
 
 Create a new customer account
+
 Search for available rooms based on check-in and check-out dates
+
 Book rooms
+
 View existing reservations
+
 Validate email and date inputs
 
 🛠 Admin Features
 
 Add rooms (Single/Double)
+
 View all rooms
+
 View all customers
+
 View all reservations
+
 Test application with sample data
 
 📁 Project Structure
@@ -33,9 +41,13 @@ src/
 🧰 Technologies Used
 
 Java
+
 Collections Framework
+
 OOP Principles
+
 Date Handling
+
 Menu-driven CLI application
 
 ▶️ How to Run
@@ -50,5 +62,3 @@ javac src/*.java
 java src.MainMenu
 
 
-
-Package organization and modular coding
