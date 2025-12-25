@@ -4,9 +4,9 @@ A Java-based Hotel Reservation Application built using Object-Oriented Programmi
 This project allows users to create accounts, search for available rooms, make reservations, and view their bookings.
 It also includes an admin panel to manage rooms and view all customer reservations.
 
-🚀 Features
+🚀 Features:
 
-👤 Customer Features
+👤 Customer Features:
 
 -->Create a new customer account
 
@@ -18,7 +18,7 @@ It also includes an admin panel to manage rooms and view all customer reservatio
 
 -->Validate email and date inputs
 
-🛠 Admin Features
+🛠 Admin Features:
 
 -->Add rooms (Single/Double)
 
@@ -30,15 +30,16 @@ It also includes an admin panel to manage rooms and view all customer reservatio
 
 -->Test application with sample data
 
-📁 Project Structure
-src/
-├── AdminMenu.java
-├── Driver.java
-├── HotelApplication.java
-├── Main.java
-└── MainMenu.java
+📁 Project Structure:
 
-🧰 Technologies Used
+  src/
+  ├── AdminMenu.java
+  ├── Driver.java
+  ├── HotelApplication.java
+  ├── Main.java
+  └── MainMenu.java
+
+🧰 Technologies Used:
 
 -->Java
 
@@ -50,7 +51,7 @@ src/
 
 -->Menu-driven CLI application
 
-▶️ How to Run
+▶️ How to Run:
 
 1. Clone the repository
 git clone https://github.com/TanmaiSathuri/Hotel-Reservation-App.git
